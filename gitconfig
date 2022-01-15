@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = deseinecorentin@gmail.com
+	name = Corentin Deseine
